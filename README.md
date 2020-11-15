@@ -14,7 +14,7 @@ some modifications:
 
 ## Example
 
-![example](img/ex.gif)
+![example](imgs/ex.gif)
 
 ## Todo
 * Add more initial states
