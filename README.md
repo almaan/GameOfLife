@@ -8,8 +8,8 @@ inspired by the Rosetta code found
 [here](https://rosettacode.org/wiki/Conway%27s_Game_of_Life#C.2B.2B), but with
 some modifications:
 
-* Use single 3D array for switching between world rather than 2 2D arrays
-* Animated output
+* Use single a 3D array for switching between worlds rather than two 2D arrays
+* Animated output (yay!)
 * User input to setup the system
 
 ## Example
@@ -19,4 +19,5 @@ some modifications:
 ## Todo
 * Add more initial states
 * Add ability to combine components (e.g., glider, slider) into one initial state
+* Colors?
 
